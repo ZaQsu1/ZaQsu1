@@ -10,7 +10,7 @@
 [![instagram](https://img.shields.io/badge/-instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zaqsufr/)
 [![tipply](https://img.shields.io/badge/-tipply-1a1a1a?style=flat-square)](https://tipply.pl/@zaqsu)
 
-[atts.com.pl](https://atts.com.pl) · [vesth.eu](https://vesth.eu)
+[atts.com.pl](https://atts.com.pl)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3)
