@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="abs.svg" alt="ZaQsu"/>
+<img src="zaqsu.svg" alt="ZaQsu"/>
 
 <br>
 
